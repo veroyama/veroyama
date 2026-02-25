@@ -1,28 +1,26 @@
-# ✨ Welcome to My GitHub Profile! ✨  
+# Hi! I'm Yukiko
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Strategic%20Business%20Builder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Connecting%20Global%20Innovation%20to%20Japan&descSize=20&descAlignY=60)
 
-## 🌟 Fukuoka Origin  
-I am from the beautiful city of Fukuoka, Japan. This vibrant city is famous for its rich culture, delicious food, and beautiful parks.
+## About Me
+- 👤 Name: Yukiko Ono
+- 🌍 Based in: Tokyo, Japan
+- 💼 Currently: Indivisual Marketing Consultant
 
-## 🎾 Tennis Player  
-I am an avid tennis player with a passion for the game. I have been playing tennis for over 10 years and have participated in numerous local tournaments.  
+## Interests
+- 🤖 AI & Machine Learning
+- 🚀 Emerging Technologies
 
-### GitHub Stats  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=veroyama&count_private=true&show_icons=true&theme=radical)
+## Currently Learning
+- How to use GitHub
+- Leveraging AI tools in development
 
-## 🏆 Career Highlights  
-| Year | Achievement  |
-|------|--------------|
-| 2020 | Won the Local Tennis Championship |
-| 2021 | Runner-up in Regional Tournament |
-| 2022 | Member of the City Tennis Team |
-| 2023 | Achieved a Personal Best Rank |
+## 🎯 Profile
+**Strategic business builder with a technical foundation in systems engineering.** Deep experience across startup (Gracenote), enterprise (IBM), and transformation leadership (Amazon, Google).
 
-## 💻 Tech Stack  
-- **Languages**: JavaScript, Python, Ruby  
-- **Frameworks**: React, Django, Ruby on Rails  
-- **Databases**: PostgreSQL, MongoDB  
+## 🚀 Expertise
+- **Business Transformation:** Driving DX and scaling high-impact deals.
+- **Strategic Sales:** Bridge global tech and local markets.
+- **Technical Roots:** Solid SE background, enabling deep understanding of developer ecosystems.
 
-## 📫 How to reach me  
-Feel free to connect with me on my social media profiles. You can find links to my accounts in the footer of this page!  
-
-Thank you for visiting my GitHub profile!  
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yukkoo/)
