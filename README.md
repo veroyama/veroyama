@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi! I'm Yukiko
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Strategic%20Business%20Builder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Connecting%20Global%20Innovation%20to%20Japan&descSize=20&descAlignY=60)
 
-<!--
-**veroyama/veroyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👤 Name: Yukiko Ono
+- 🌍 Based in: Tokyo, Japan
+- 💼 Currently: Indivisual Marketing Consultant
 
-Here are some ideas to get you started:
+## Interests
+- 🤖 AI & Machine Learning
+- 🚀 Emerging Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- How to use GitHub
+- Leveraging AI tools in development
+
+## 🎯 Profile
+**Strategic business builder with a technical foundation in systems engineering.** Deep experience across startup (Gracenote), enterprise (IBM), and transformation leadership (Amazon, Google).
+
+## 🚀 Expertise
+- **Business Transformation:** Driving DX and scaling high-impact deals.
+- **Strategic Sales:** Bridge global tech and local markets.
+- **Technical Roots:** Solid SE background, enabling deep understanding of developer ecosystems.
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yukkoo/)
