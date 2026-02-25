@@ -1,5 +1,28 @@
-### Fukuoka Origins
-Fukuoka, located on the northern shore of the island of Kyushu, Japan, is known for its rich history, vibrant culture, and beautiful landscapes. It is the gateway to the Asian continent and has a unique blend of traditional and modern influences, making it a fascinating place to explore.
+# ✨ Welcome to My GitHub Profile! ✨  
 
-### Tennis Player Background
-The tennis player hailing from Fukuoka has made significant strides in the sport, showcasing talent and determination on both national and international stages. Known for their powerful serves and strategic gameplay, this athlete continues to inspire many young players from the region, contributing to the growing popularity of tennis in Japan.
+## 🌟 Fukuoka Origin  
+I am from the beautiful city of Fukuoka, Japan. This vibrant city is famous for its rich culture, delicious food, and beautiful parks.
+
+## 🎾 Tennis Player  
+I am an avid tennis player with a passion for the game. I have been playing tennis for over 10 years and have participated in numerous local tournaments.  
+
+### GitHub Stats  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=veroyama&count_private=true&show_icons=true&theme=radical)
+
+## 🏆 Career Highlights  
+| Year | Achievement  |
+|------|--------------|
+| 2020 | Won the Local Tennis Championship |
+| 2021 | Runner-up in Regional Tournament |
+| 2022 | Member of the City Tennis Team |
+| 2023 | Achieved a Personal Best Rank |
+
+## 💻 Tech Stack  
+- **Languages**: JavaScript, Python, Ruby  
+- **Frameworks**: React, Django, Ruby on Rails  
+- **Databases**: PostgreSQL, MongoDB  
+
+## 📫 How to reach me  
+Feel free to connect with me on my social media profiles. You can find links to my accounts in the footer of this page!  
+
+Thank you for visiting my GitHub profile!  
